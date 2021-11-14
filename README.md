@@ -1,5 +1,7 @@
 # Simple Blockchain Python 
 
+<img src="blockchain.jpg">
+
 
 Understanding Blockchain isn't easy. At least it wasn't for me. I had to go through number of frustrations due to too few funcional examples of how this technology works. 
 
